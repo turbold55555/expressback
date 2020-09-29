@@ -1,0 +1,35 @@
+[
+    {
+        "photo": "history.jpg",
+        "_id": "5f1d56a58205af5e27dc5e51",
+        "name": "Шүлгийн түүвэр",
+        "description": "Бүх шүлгийн номнуудыг эндээс үзээрэй",
+        "createdAt": "2020-07-26T10:10:45.241Z",
+        "slug": "shulgiyn-tuuver",
+        "averageRating": 10,
+        "__v": 0,
+        "averagePrice": 71903
+    },
+    {
+        "photo": "history.jpg",
+        "_id": "5f1e8928676e76270c8165fb",
+        "name": "Түүхийн Соёлын хичээлийн ном",
+        "description": "Монголчуудын түүх иргэншил",
+        "createdAt": "2020-07-27T07:58:32.144Z",
+        "__v": 0,
+        "slug": "tuuhiyn-soyolyn-hicheeliyn-nom",
+        "averageRating": 1,
+        "averagePrice": 41824
+    },
+    {
+        "photo": "no-photo,jpg",
+        "_id": "5f72ecf64f715b0d8ce75eb8",
+        "name": "Билл гэйтес тухай ном",
+        "description": " билл гэйтес ийн бага нас",
+        "createdAt": "2020-09-29T08:14:46.379Z",
+        "slug": "bill-geytes-tuhay-nom",
+        "averageRating": 4,
+        "averagePrice": 55947,
+        "__v": 0
+    }
+]
